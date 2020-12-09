@@ -1,6 +1,7 @@
 # PyTorch-Tutorial
 
 This repository contains PyTorch Tutorial for **Istanbul Technical University (ITU) BLG506E (Computer Vision) grad course**.    
+As a teaching assistant, I wanted to create a tutorial that only focuses on the most crucial parts of the framework. It is more targeted for the term projects of the students who don't have prior experience with the deep learning frameworks.   
 Codes are based on https://github.com/yunjey/pytorch-tutorial repository. If you want to see more content please visit that repo.  
 I use jupyter notebok and make the tutorials more detailed. Aim of this tutorial is familarizing students with the PyTorch to use it in their term project.    
   
