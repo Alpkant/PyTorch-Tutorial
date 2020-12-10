@@ -12,7 +12,9 @@ Content of the tutorial as follows:
 4. **Generative Adversarial Network** = GAN training loop  
 5. **Tensorboard** = How to monitor training and how to effectively use logger  
 
-If you want to use GPU but don't have one. You can use the links below to run your code on Google Colab.
+If you want to use GPU but don't have one. You can use the links below to run your code on Google Colab.  
+To enable the GPU please click *Runtime ->  Change runtime type -> Hardware Accelarator -> GPU.* 
+Then you can click connect and start to run your codes.  
 1. [PyTorch Basic Ops.][1]
 2. [Basic Training Loop on Toy Datase][2]
 3. [Convolutional Neural Networks and Residual Connections][3]
