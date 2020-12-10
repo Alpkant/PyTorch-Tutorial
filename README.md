@@ -19,13 +19,13 @@ Then you can click connect and start to run your codes.
 2. [Basic Training Loop on Toy Datase][2]
 3. [Convolutional Neural Networks and Residual Connections][3]
 4. [Generative Adversarial Network][4]
-5. 
+5. [Tensorboard][5]
 
 [1]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/1-PyTorch%20Basic%20Ops.ipynb
 [2]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/2-Basic%20Training%20Loop%20on%20Toy%20Dataset.ipynb
 [3]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/3-Convolutional%20Neural%20Networks%20and%20Residual%20Connections.ipynb
 [4]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/4-Generative%20Adversarial%20Network.ipynb
-
+[5]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/5-Tensorboard.ipynb
 
 I recommend you to complete official PyTorch tutorials and read the documentation as you need for more information.  
 https://pytorch.org/tutorials/  
