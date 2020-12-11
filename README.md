@@ -1,9 +1,9 @@
 # PyTorch-Tutorial
 
 This repository contains PyTorch Tutorial for **Istanbul Technical University (ITU) BLG506E (Computer Vision) grad course**.    
-As a teaching assistant, I wanted to create a tutorial that only focuses on the most crucial parts of the framework. It is more targeted for the term projects of the students who don't have prior experience with the deep learning frameworks.   
+As a teaching assistant, I wanted to create a tutorial that only focuses on the most crucial parts of the framework. It is more targeted for the term projects of the students who don't have prior experience with deep learning frameworks.   
 Codes are based on https://github.com/yunjey/pytorch-tutorial repository. If you want to see more content please visit that repo.  
-I use jupyter notebok and make the tutorials more detailed. Aim of this tutorial is familarizing students with the PyTorch to use it in their term project.    
+I use jupyter notebok and make the codes easy to understand. Aim of this tutorial is familarizing students with PyTorch to use it in their term project.    
   
 Content of the tutorial as follows:  
 1. **PyTorch Basic Ops.** = Basic introduction to tensor operations, ready-to-use datasets, custom datasets, models, saving and loading.  
@@ -12,7 +12,7 @@ Content of the tutorial as follows:
 4. **Generative Adversarial Network** = GAN training loop  
 5. **Tensorboard** = How to monitor training and how to effectively use logger  
 
-If you want to use GPU but don't have one. You can use the links below to run your code on Google Colab.  
+If you want to use a GPU but don't have one. You can use the links below to run your code on Google Colab.  
 To enable the GPU please click *Runtime ->  Change runtime type -> Hardware Accelarator -> GPU.* 
 Then you can click connect and start to run your codes.  
 1. [PyTorch Basic Ops.][1]
@@ -31,7 +31,7 @@ I recommend you to complete official PyTorch tutorials and read the documentatio
 https://pytorch.org/tutorials/  
 https://pytorch.org/docs/stable/index.html  
 
-If students want to use Keras I recommend the links below. My knowledge about the Keras is limited but I used these resources when I learned Keras. If you know good tutorials you are welcome to contribute.  
+If students want to use Keras I recommend the links below. My knowledge about the Keras is limited but I used these resources when I learned Keras. If you know more good tutorials you are welcome to contribute.  
 https://keras.io/guides/  
 https://github.com/fchollet/keras-resources  
 
