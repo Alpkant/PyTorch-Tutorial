@@ -1,9 +1,9 @@
 # PyTorch-Tutorial
 
 This repository contains PyTorch Tutorial for **Istanbul Technical University (ITU) BLG506E (Computer Vision) grad course**.    
-As a teaching assistant, I wanted to create a tutorial that only focuses on the most crucial parts of the framework. It is more targeted for the term projects of the students who don't have prior experience with the deep learning frameworks.   
+As a teaching assistant, I wanted to create a tutorial that only focuses on the most crucial parts of the framework. It is more targeted for the term projects of the students who don't have prior experience with deep learning frameworks.   
 Codes are based on https://github.com/yunjey/pytorch-tutorial repository. If you want to see more content please visit that repo.  
-I use jupyter notebok and make the tutorials more detailed. Aim of this tutorial is familarizing students with the PyTorch to use it in their term project.    
+I use jupyter notebok and make the codes easy to understand. Aim of this tutorial is familarizing students with PyTorch to use it in their term project.    
   
 Content of the tutorial as follows:  
 1. **PyTorch Basic Ops.** = Basic introduction to tensor operations, ready-to-use datasets, custom datasets, models, saving and loading.  
@@ -12,26 +12,26 @@ Content of the tutorial as follows:
 4. **Generative Adversarial Network** = GAN training loop  
 5. **Tensorboard** = How to monitor training and how to effectively use logger  
 
-If you want to use GPU but don't have one. You can use the links below to run your code on Google Colab.  
+If you want to use a GPU but don't have one. You can use the links below to run your code on Google Colab.  
 To enable the GPU please click *Runtime ->  Change runtime type -> Hardware Accelarator -> GPU.* 
 Then you can click connect and start to run your codes.  
 1. [PyTorch Basic Ops.][1]
 2. [Basic Training Loop on Toy Datase][2]
 3. [Convolutional Neural Networks and Residual Connections][3]
 4. [Generative Adversarial Network][4]
-5. 
+5. [Tensorboard][5]
 
 [1]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/1-PyTorch%20Basic%20Ops.ipynb
 [2]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/2-Basic%20Training%20Loop%20on%20Toy%20Dataset.ipynb
 [3]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/3-Convolutional%20Neural%20Networks%20and%20Residual%20Connections.ipynb
 [4]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/4-Generative%20Adversarial%20Network.ipynb
-
+[5]: https://colab.research.google.com/github/Alpkant/PyTorch-Tutorial/blob/main/5-Tensorboard.ipynb
 
 I recommend you to complete official PyTorch tutorials and read the documentation as you need for more information.  
 https://pytorch.org/tutorials/  
 https://pytorch.org/docs/stable/index.html  
 
-If students want to use Keras I recommend the links below. My knowledge about the Keras is limited but I used these resources when I learned Keras. If you know good tutorials you are welcome to contribute.  
+If students want to use Keras I recommend the links below. My knowledge about the Keras is limited but I used these resources when I learned Keras. If you know more good tutorials you are welcome to contribute.  
 https://keras.io/guides/  
 https://github.com/fchollet/keras-resources  
 
